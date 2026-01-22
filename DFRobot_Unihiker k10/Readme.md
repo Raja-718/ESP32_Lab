@@ -40,7 +40,7 @@ Ideal for **students, labs, educators, and ESP32 enthusiasts** looking to explor
 
 ### 🤖 AI & Computer Vision
 
-#### 1️⃣ AI-Dog-Cat Recognition
+#### 1️⃣ Dog-Cat Recognition
 📄 **File:** `AI-Dog-Cat recognition.cpp`  
 
 <img src="https://drive.google.com/uc?export=view&id=1HXfQXa_vzTP2VDNQxVRI2t4AQPzmTUMH" width="600"/>
@@ -48,84 +48,61 @@ Ideal for **students, labs, educators, and ESP32 enthusiasts** looking to explor
 
 ---
 
-#### 2️⃣ AI-Face Detection
+#### 2️⃣ Face Detection
 📄 **File:** `AI-Face detection.cpp`  
-🖼 **Demo Image:**  
-
+<img src="https://drive.google.com/uc?export=view&id=1Hm543L_-H3b43Pn3jTWFE0WZ4U1oeXAo" width="300"/>
 
 ---
 
-#### 3️⃣ AI-Face Recognition
+#### 3️⃣ Face Recognition
 📄 **File:** `AI-Face recognition.cpp`  
-🖼 **Demo Image:**  
-
+<img src="https://drive.google.com/uc?export=view&id=1voO_5USklqnUlwVMvtgWjMBJkwVfB0hr" width="300"/>
 ---
 
-#### 4️⃣ AI-Movement Detection
+#### 4️⃣ Movement Detection
 📄 **File:** `AI-Movement Detection.cpp`  
-🖼 **Demo Image:**  
+<img src="https://drive.google.com/uc?export=view&id=1yJjVCb3xopROLoY2x9Yank2tKKPGNRRW" width="500"/>
 
 ---
-
-### 📺 Display & Graphics
-
 #### 5️⃣ Draw Line on Display
 📄 **File:** `Display-Draw Line.cpp`  
-🖼 **Output Image:**  
-
+<img src="https://drive.google.com/uc?export=view&id=19MSlsid-VUX2PxMdCwlCA6eYyE7TnFNW" width="300"/>
 ---
 
 #### 6️⃣ Draw Point on Display
 📄 **File:** `Display-Draw Point.cpp`  
-🖼 **Output Image:**  
-
----
-
-#### 6️⃣ Draw Point on Display
-📄 **File:** `Display-Draw Point.cpp`  
-🖼 **Output Image:**  
+<img src="https://drive.google.com/uc?export=view&id=1xJOJVCN1ibRiswctroCRAfjFSrzuD5kd" width="300"/>
 
 ---
 
 #### 7️⃣ Rectangle Animation
 📄 **File:** `Display-Draw Rectangle_animation.cpp`  
-🖼 **Output Image:**  
-
+<img src="https://drive.google.com/uc?export=view&id=1G0NAAAX7lp2l4DTJzzj2i2yx-y1H3SrU" width="300"/>
 ---
 
 #### 8️⃣ Display QR Code
 📄 **File:** `Display-QR Code.cpp`  
-🖼 **Output Image:**  
-
+<img src="https://drive.google.com/uc?export=view&id=1XnOAC6IWOTPjJVMXqiYiFWlsNhsy5YsH" width="300"/>
 ---
 
 #### 9️⃣ Display Text
 📄 **File:** `Display-Showing text.cpp`  
-🖼 **Output Image:**  
-
 ---
 
 ### 🎮 Sensor & Interaction
 
 #### 🔟 Accelerometer Ball Control
 📄 **File:** `Accelerate ball.cpp`  
-🖼 **Demo Image:**  
-
 ---
 
 #### 1️⃣1️⃣ RGB Control Using Sensor
 📄 **File:** `On board sensor-RGB control.cpp`  
-🖼 **Demo Image:**  
-
 ---
 
 ### 🎆 Animation & Effects
 
 #### 1️⃣2️⃣ Meteor Shower Animation
 📄 **File:** `Meteor shower.cpp`  
-🖼 **Output Image:**  
-
-
 ---
 
 ## 🎯 Learning Outcomes
